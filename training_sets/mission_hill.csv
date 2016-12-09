@@ -1,0 +1,369 @@
+cherry,rose
+melon,rose
+raspberry,rose
+plum,rose
+strawberry,rose
+fish,rose
+seafood,rose
+fowl,rose
+white meat,rose
+chicken,rose
+duck,rose
+charcuterie,rose
+beet,rose
+spring pea,rose
+pea,rose
+carrot,rose
+fennel,rose
+red berries,rose
+roasted pepper,rose
+lemon thyme,rose
+thyme,rose
+sage,rose
+ginger,rose
+goat cheese,rose
+vinaigrette,rose
+hollandaise,rose
+puttanesca,rose
+red cherry,pinot noir
+black cherry,pinot noir
+cherry,pinot noir
+clove,pinot noir
+mint,pinot noir
+sage,pinot noir
+mushroom,pinot noir
+truffle,pinot noir
+salmon,pinot noir
+tuna,pinot noir
+swordfish,pinot noir
+venison,pinot noir
+pheasant,pinot noir
+quail,pinot noir
+goose,pinot noir
+rabbit,pinot noir
+lamb,pinot noir
+sweetbread,pinot noir
+squash,pinot noir
+fennel,pinot noir
+lentil,pinot noir
+onion,pinot noir
+garlic,pinot noir
+berries,pinot noir
+mushroom,pinot noir
+orange,pinot noir
+coriander,pinot noir
+cilantro,pinot noir
+cumin,pinot noir
+cinnamon,pinot noir
+ginger,pinot noir
+taleggio,pinot noir
+brie cheese,pinot noir
+brie,pinot noir
+dijon,pinot noir
+dijon mustard,pinot noir
+coq au vin,pinot noir
+pork,pinot noir
+blackberry,syrah
+plum,syrah
+violet,syrah
+peppercorn,syrah
+sausage,syrah
+bacon,syrah
+tuna,syrah
+steak,syrah
+beef,syrah
+pork,syrah
+lamb,syrah
+boar,syrah
+wild boar,syrah
+peppers,syrah
+eggplant,syrah
+tomatoes,syrah
+beets,syrah
+mushrooms,syrah
+thyme,syrah
+rosemary,syrah
+star anise,syrah
+ginger,syrah
+blue,syrah
+blueberry,syrah
+chili,syrah
+onion,syrah
+black cherry,merlot
+plum,merlot
+sage,merlot
+rosemary,merlot
+chocolate,merlot
+salmon,merlot
+tuna,merlot
+scallops,merlot
+prawns,merlot
+red meats,merlot
+duck,merlot
+lamb,merlot
+pork,merlot
+onion,merlot
+garlic,merlot
+tomatoes,merlot
+berries,merlot
+mushrooms,merlot
+cherries,merlot
+thyme,merlot
+sage,merlot
+rosemary,merlot
+cheddar,merlot
+aged cheddar,merlot
+parmesan,merlot
+prunes,merlot
+citrus,merlot
+olive,merlot
+tuna,cabernet sauvignon
+shark,cabernet sauvignon
+swordfish,cabernet sauvignon
+red meats,cabernet sauvignon
+lamb,cabernet sauvignon
+game,cabernet sauvignon
+radicchio,cabernet sauvignon
+endive,cabernet sauvignon
+mushroom,cabernet sauvignon
+thyme sage,cabernet sauvignon
+rosemary,cabernet sauvignon
+chocolate,cabernet sauvignon
+dark chocolate,cabernet sauvignon
+cheddar,cabernet sauvignon
+aged cheddar,cabernet sauvignon
+parmesan,cabernet sauvignon
+dijon mustart,cabernet sauvignon
+dijon,cabernet sauvignon
+cocoa,cabernet sauvignon
+pork,cabernet sauvignon
+cinnamon,cabernet sauvignon
+truffels,cabernet sauvignon
+duck,cabernet sauvignon
+horseradish,cabernet sauvignon
+lentils,cabernet sauvignon
+coffee,cabernet sauvignon
+citrus,pinot blanc
+apple,pinot blanc
+pear,pinot blanc
+melon,pinot blanc
+sweet pea,pinot blanc
+prawns,pinot blanc
+oysters,pinot blanc
+clams,pinot blanc
+mussels,pinot blanc
+scallops,pinot blanc
+trout,pinot blanc
+squid,pinot blanc
+chicken,pinot blanc
+veal,pinot blanc
+rabbit,pinot blanc
+sweetbreads,pinot blanc
+pineapple,pinot blanc
+fennel,pinot blanc
+green bean,pinot blanc
+pea,pinot blanc
+tomatoes,pinot blanc
+celeriac,pinot blanc
+ginger,pinot blanc
+garlic,pinot blanc
+chive,pinot blanc
+parsley,pinot blanc
+basic,pinot blanc
+mint,pinot blanc
+dill,pinot blanc
+lemon verbena,pinot blanc
+goat cheese,pinot blanc
+gruyere,pinot blanc
+asiago,pinot blanc
+mustard,pinot blanc
+mayonnaise,pinot blanc
+mayo,pinot blanc
+ceviche,pinot blanc
+grapefruit,pinot blanc
+avacado,pinot blanc
+fennel,pinot blanc
+citrus,sauvignon blanc
+gooseberry,sauvignon blanc
+bell pepper,sauvignon blanc
+pepper,sauvignon blanc
+black pepper,sauvignon blanc
+green olives,sauvignon blanc
+herbs,sauvignon blanc
+guava,sauvignon blanc
+quince,sauvignon blanc
+oysters,sauvignon blanc
+white fish,sauvignon blanc
+halibut,sauvignon blanc
+mahi mahi,sauvignon blanc
+talapia,sauvignon blanc
+scallops,sauvignon blanc
+clams,sauvignon blanc
+mussels,sauvignon blanc
+squid,sauvignon blanc
+chicken,sauvignon blanc
+game bird,sauvignon blanc
+pheasant,sauvignon blanc
+pork,sauvignon blanc
+veal,sauvignon blanc
+green bean,sauvignon blanc
+tomatoes,sauvignon blanc
+peppers,sauvignon blanc
+eggplant,sauvignon blanc
+leeks,sauvignon blanc
+zucchini,sauvignon blanc
+asparagus,sauvignon blanc
+sorrel,sauvignon blanc
+capers,sauvignon blanc
+garlic,sauvignon blanc
+olives,sauvignon blanc
+ginger,sauvignon blanc
+goat cheese,sauvignon blanc
+feta cheese,sauvignon blanc
+ricotta,sauvignon blanc
+ricotta cheese,sauvignon blanc
+fontana,sauvignon blanc
+jarlsber,sauvignon blanc
+pecorino,sauvignon blanc
+cirtus,pinot gris
+apple,pinot gris
+pear,pinot gris
+peach,pinot gris
+melon,pinot gris
+honey,pinot gris
+kumquat,pinot gris
+musk,pinot gris
+vanilla,pinot gris
+white pepper,pinot gris
+white fish,pinot gris
+salmon,pinot gris
+clams,pinot gris
+mussels,pinot gris
+trout,pinot gris
+tuna,pinot gris
+chicken,pinot gris
+turkey,pinot gris
+pheasant,pinot gris
+veal,pinot gris
+rabbit,pinot gris
+pork,pinot gris
+tomato,pinot gris
+pea,pinot gris
+green bean,pinot gris
+mushroom,pinot gris
+celery,pinot gris
+fennel,pinot gris
+avacado,pinot gris
+ginger,pinot gris
+parsley,pinot gris
+tarragon,pinot gris
+lemongrass,pinot gris
+mozzarella,pinot gris
+gruyere,pinot gris
+comte,pinot gris
+emmenthaler,pinot gris
+crab,pinot gris
+curry,pinot gris
+cucumber,pinot gris
+citrus,chardonnay
+apricot,chardonnay
+orange,chardonnay
+trout,chardonnay
+halibut,chardonnay
+octopus,chardonnay
+scallops,chardonnay
+crab,chardonnay
+lobster,chardonnay
+prawns,chardonnay
+chicken,chardonnay
+pheasant,chardonnay
+quail,chardonnay
+partridge,chardonnay
+rabbit,chardonnay
+pork,chardonnay
+veal,chardonnay
+mushroom,chardonnay
+potato,chardonnay
+butternut squash,chardonnay
+mushroom,chardonnay
+white bean,chardonnay
+tarragon,chardonnay
+cilantro,chardonnay
+nutmeg,chardonnay
+5 spice,chardonnay
+ginger,chardonnay
+parmesan,chardonnay
+brie,chardonnay
+emmentahler,chardonnay
+comte,chardonnay
+smoky,chardonnay
+smoke,chardonnay
+smoked,chardonnay
+citrus,riesling
+apple,riesling
+pear,riesling
+melon,riesling
+apricot,riesling
+peach,riesling
+nectarine,riesling
+kiwi,riesling
+orange,riesling
+sole,riesling
+trout,riesling
+shellfish,riesling
+prawn,riesling
+lobster,riesling
+crab,riesling
+crawfish,riesling
+goose,riesling
+duck,riesling
+charcuterie,riesling
+bbq,riesling
+pork,riesling
+veal,riesling
+cucumber,riesling
+artichoke,riesling
+melon,riesling
+citrus,riesling
+corn,riesling
+yam,riesling
+cabbage,riesling
+turnip,riesling
+sweet potato,riesling
+fennel,riesling
+curry,riesling
+cardamon,riesling
+cinnamon,riesling
+clove,riesling
+cumin,riesling
+star anise,riesling
+mint,riesling
+gorgonzola,riesling
+cheddar,riesling
+tamarind,riesling
+quiche,riesling
+leeks,riesling
+cilantro,riesling
+avacado,riesling
+apple,ice wine
+pear,ice wine
+citrus,ice wine
+scallops,ice wine
+lobster,ice wine
+tuna,ice wine
+proscuitto,ice wine
+lemon,ice wine
+lime,ice wine
+apricot,ice wine
+peach,ice wine
+rhubarb,ice wine
+nectarine,ice wine
+berries,ice wine
+ginger,ice wine
+vanilla,ice wine
+fennel,ice wine
+salt,ice wine
+blue cheese,ice wine
+custard,ice wine
+citrus,ice wine
+ricotta,ice wine
